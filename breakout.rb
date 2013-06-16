@@ -3,7 +3,7 @@
 # It was conceptualized by Nolan Bushnell, Steve Bristow, and Steve Wozniak
 # Steve Jobs obvi got his hand in this pot too...
 # Breakout is arguably one of the most influential games in the history of computing
-# And now, thanks to Ruby, I've managed to build it! 
+# And now, thanks to Ruby, I've managed to build it (sort of)! 
 
 require 'rubygems'
 require 'Gosu'
